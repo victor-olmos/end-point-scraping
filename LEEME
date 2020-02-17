@@ -1,0 +1,2 @@
+Esta app se conecta a un endpoint entregado por MKR donde aparecen productos de manera distinta a su sitio web.
+Al conectarse al endpoint, se descarga un .csv y luego se analiza para posteriormente realizar la insercion de los productos procesados a la BD.
